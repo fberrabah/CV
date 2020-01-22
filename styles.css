@@ -27,6 +27,12 @@ body {
   font-size: 16px;
 }
 
+.logo-travail {
+  width: 20%;
+  height: 200%;
+  float: right;
+}
+
 .resume {
   width: 800px;
   height: auto;
@@ -50,7 +56,6 @@ body {
 .resume .resume_left .resume_profile img {
   width: 100%;
   height: 108%;
-  border-top-left-radius: 10%;
 }
 
 .resume .resume_left .resume_content {
