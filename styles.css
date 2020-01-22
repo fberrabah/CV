@@ -33,6 +33,12 @@ body {
   float: right;
 }
 
+.logo-swiss {
+  width: 25%;
+  height: 200%;
+  float: right;
+}
+
 .resume {
   width: 800px;
   height: auto;
