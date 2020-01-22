@@ -34,7 +34,7 @@ body {
 }
 
 .logo-swiss {
-  width: 25%;
+  width: 27%;
   height: 200%;
   float: right;
 }
@@ -50,7 +50,6 @@ body {
 .resume .resume_left {
   width: 280px;
   background: #0bb5f4;
-  border-top-left-radius: 10%;
 }
 
 .resume .resume_left .resume_profile {
