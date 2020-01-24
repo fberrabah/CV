@@ -1,6 +1,6 @@
 # HTML et CSS : Faire un Curriculum vitæ.
 
-Créer un <a https://fr.wikipedia.org/wiki/Curriculum_vit%C3%A6</a> en utilisant HTML et CSS.
+Créer un <a href="https://fr.wikipedia.org/wiki/Curriculum_vit%C3%A6">Curriculum vitæ</a> en utilisant HTML et CSS.
 
 # Déroulement 
 
